@@ -50,7 +50,7 @@ operating_principle: "If it happens twice, automate it."
 
 <div align="center">
 
-<a href="https://github.com/DRSeppings?tab=overview&from=2026-11-01&to=2026-11-01">View my contributions and activity on GitHub ↗</a>
+<a href="https://github.com/DRSeppings">View my contributions and activity on GitHub ↗</a>
 
 <img src="https://streak-stats.demolab.com?user=DRSeppings&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&stroke=30363D&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=2DD4BF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 </div>
