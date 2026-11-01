@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/DRSeppings.png" width="118" alt="DRSeppings avatar" />
-
 # Dylan Seppings
 ### DevOps Engineer · Site Reliability Engineer
 
