@@ -50,15 +50,12 @@ operating_principle: "If it happens twice, automate it."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DRSeppings&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&icon_color=2dd4bf" alt="GitHub stats" />
+<a href="https://github.com/DRSeppings?tab=overview&from=2026-11-01&to=2026-11-01">View my contributions and activity on GitHub ↗</a>
 
-<img src="https://streak-stats.demolab.com?user=DRSeppings&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DRSeppings&bg_color=0d1117&color=2dd4bf&line=2dd4bf&point=ffffff&area=true&area_color=155e59&hide_border=true" width="100%" alt="GitHub activity graph" />
-
+<img src="https://streak-stats.demolab.com?user=DRSeppings&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&stroke=30363D&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=2DD4BF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 </div>
 
-<sub>GitHub-powered cards use public activity data; private contributions may not appear in third-party statistics.</sub>
+<sub>GitHub is the source of truth for contribution history. Third-party streak cards may omit private activity or experience outages.</sub>
 
 ### `$ uptime && systemctl status coffee`
 
