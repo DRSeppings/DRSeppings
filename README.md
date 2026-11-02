@@ -35,40 +35,69 @@ I care about how the whole system fits together — and whether it can be operat
 <tr>
 <td width="50%" valign="top">
 
-**SYSTEMS & INFRASTRUCTURE**
+**SYSTEMS DESIGN**
 
-Windows Server · Linux · IIS  
-Networking · Systems administration  
-Production troubleshooting
+Technical design · System integration  
+Infrastructure modernisation  
+Operational readiness
 
 </td>
 <td width="50%" valign="top">
 
-**SYSTEMS DESIGN & CLOUD**
+**INFRASTRUCTURE & CLOUD**
 
-Microsoft Azure · Technical design  
-Integration · Delivery patterns  
-Operational readiness
+Azure · Windows Server · IIS  
+F5 BIG-IP · Networking  
+Kubernetes · Helm
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-**DATABASES & DATA**
+**DATABASES**
 
-SQL · SQL Server  
-PostgreSQL · Redis  
-Diagnostics & integration
+SQL Server · T-SQL  
+Query diagnostics · Troubleshooting  
+PostgreSQL · Redis
 
 </td>
 <td valign="top">
 
-**RELIABILITY & OPERATIONS**
+**ENGINEERING ENVIRONMENT**
 
-Prometheus · Grafana  
-Monitoring · Incident response  
-Troubleshooting · Performance
+WSL · Linux · Git  
+Bash · PowerShell  
+Command-line tooling
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**AUTOMATION & DELIVERY**
+
+Ansible · Azure DevOps  
+CI/CD · Deployment pipelines  
+Scripting · Helm
+
+</td>
+<td valign="top">
+
+**RELIABILITY & OBSERVABILITY**
+
+Root-cause analysis · Incident response  
+Grafana · Azure Monitor  
+Monitoring · Alerting
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**SECURITY & GOVERNANCE**
+
+PCI DSS · Access management · Technical decision records · Change management
 
 </td>
 </tr>
