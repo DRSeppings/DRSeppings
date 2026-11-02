@@ -1,14 +1,14 @@
 <div align="center">
 
-<sub>OPERATIONS  /  INFRASTRUCTURE  /  RELIABILITY</sub>
+<sub>SYSTEMS DESIGN  /  INFRASTRUCTURE  /  RELIABILITY</sub>
 
 # DYLAN SEPPINGS
 
 **Senior IT Engineer** &nbsp;·&nbsp; DevOps & SRE
 
-*From the IT guy to the engineer they call when things get complicated.*
+*Operations-rooted. Designing systems that work — and can actually be supported.*
 
-<img src="https://img.shields.io/badge/OPERATIONS-FIRST-2dd4bf?style=flat-square&labelColor=101820&color=2dd4bf" alt="Operations first" /> <img src="https://img.shields.io/badge/BASED_IN-SOUTH_AFRICA-334155?style=flat-square&labelColor=101820" alt="South Africa" /> <img src="https://img.shields.io/badge/MINDSET-BUILD_·_FIX_·_IMPROVE-334155?style=flat-square&labelColor=101820" alt="Build, fix, improve" />
+<img src="https://img.shields.io/badge/OPERATIONS-ROOTED-2dd4bf?style=flat-square&labelColor=101820&color=2dd4bf" alt="Operations first" /> <img src="https://img.shields.io/badge/BASED_IN-SOUTH_AFRICA-334155?style=flat-square&labelColor=101820" alt="South Africa" /> <img src="https://img.shields.io/badge/MINDSET-BUILD_·_FIX_·_IMPROVE-334155?style=flat-square&labelColor=101820" alt="Build, fix, improve" />
 
 </div>
 
@@ -16,8 +16,8 @@
 
 ```text
 dylan@production:~$ whoami
-Operations-first engineer. Infrastructure, systems, databases,
-cloud, automation and the occasional spectacularly obscure outage.
+Senior engineer with roots in IT operations.
+Now focused on systems design, infrastructure and reliability.
 
 dylan@production:~$ cat /etc/motto
 Keep it running. Make it better. Automate what you can.
@@ -25,9 +25,9 @@ Keep it running. Make it better. Automate what you can.
 
 ### `01 / THE WORK`
 
-I came up through **IT support and operations**, then moved into systems and infrastructure engineering. Today my work spans **production environments, cloud platforms, SQL, troubleshooting, automation and reliability**.
+I came up through **IT support and production operations**, then progressed through infrastructure engineering and automation. Today I focus more on **systems design, technical decisions and operational reliability** across infrastructure, cloud environments and databases.
 
-I like understanding the entire system — not just the part that happens to be broken.
+I care about how the whole system fits together — and whether it can be operated, diagnosed and supported once it reaches production.
 
 ### `02 / THE TOOLBOX`
 
@@ -44,11 +44,11 @@ Production troubleshooting
 </td>
 <td width="50%" valign="top">
 
-**CLOUD & DELIVERY**
+**SYSTEMS DESIGN & CLOUD**
 
-Microsoft Azure · Docker  
-CI/CD · GitHub Actions  
-Deployment & automation
+Microsoft Azure · Technical design  
+Integration · Delivery patterns  
+Operational readiness
 
 </td>
 </tr>
@@ -64,11 +64,11 @@ Diagnostics & integration
 </td>
 <td valign="top">
 
-**OBSERVABILITY & RELIABILITY**
+**RELIABILITY & OPERATIONS**
 
 Prometheus · Grafana  
-Monitoring · Alerting  
-Incident response · Performance
+Monitoring · Incident response  
+Troubleshooting · Performance
 
 </td>
 </tr>
